@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1",
+    "azure-devops-node-api": "npm:azure-devops-node-api@^14.1.0",
+    "dotenv": "npm:dotenv@^16.4.7",
+    "googleapis": "npm:googleapis@^144.0.0"
+  }
+}
