@@ -1,3 +1,8 @@
+**About**
+
+Gets specific data from Azure DevOps using Azure Devops services API and stores in a google sheet.
+
+
 **Create Google API Credentials**
 
 1.  Go to the Google Cloud Console.
